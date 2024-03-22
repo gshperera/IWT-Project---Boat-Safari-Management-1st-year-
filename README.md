@@ -14,9 +14,9 @@ This system is designed to streamline the management processes involved in organ
 
 
     <img src="home.png" width="500px">
-    <hr/>
+    
     <img src="about us.png" width="500px">
-    <hr/>
+
     <img src="login.png" width="500px">
 
 
