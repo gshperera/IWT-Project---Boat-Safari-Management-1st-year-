@@ -1,0 +1,38 @@
+/* Hero */
+#hero{
+    background-image: url('images/home01.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 100%;
+    height: 65vh;
+    
+}
+
+.hpara{
+    background-color: rgb(223, 228, 227);
+    padding: 20px;
+}
+
+.hpara p{
+    width: 80%;
+    margin: auto;
+    text-align: center;
+    line-height: 1.6em;
+}
+
+.discription
+{
+    display: flex;
+    align-items: center;
+    margin: 20px 0;
+}
+
+.discription img{
+    width: 300px;
+    margin: 20px;
+}
+.discription p{
+    line-height: 1.6em;
+    margin: 10px;
+}
